@@ -15,6 +15,7 @@ This is a place that reflects my interests, my professional growth and has been 
   Hi there 👋 Sorry, I haven't introduced myself. I'm KorKux or well, that's how know me on the internet but my real name is Cristhian Castillo, a data science and software engineering student with a passion for data 👨‍🏫.</p>
 
 **Some data:**
+
 🐍 I love programming in Python, it is the language I currently work with.
 
 👨‍🏫 I'm learning about data science and artificial intelligence.
