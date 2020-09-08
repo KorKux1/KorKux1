@@ -11,16 +11,16 @@ This is a place that reflects my interests, my professional growth and has been 
 
 <h2>About me</h2>
 <p>
-  <img width="200" style="margin-right:10px" alt="hello!" align="left" src="https://raw.githubusercontent.com/KorKux1/KorKux1/master/resources/tenor.gif" >
-  Hi there 👋 Sorry, I haven't introduced myself. I'm KorKux or well, that's how know me on the internet but my real name is Cristhian Castillo, a data science and software engineering student with a passion for data 👨‍🏫.
-</p>
-<br><br>
+  <img width="250" style="margin-right:10px" alt="hello!" align="left" src="https://raw.githubusercontent.com/KorKux1/KorKux1/master/resources/tenor.gif" >
+  Hi there 👋 Sorry, I haven't introduced myself. I'm KorKux or well, that's how know me on the internet but my real name is Cristhian Castillo, a data science and software engineering student with a passion for data 👨‍🏫.</p>
 
 **Some data:**
 🐍 I love programming in Python, it is the language I currently work with.
 👨‍🏫 I'm learning about data science and artificial intelligence.
 🎮 Anime, audiovisual production & video game enthusiast 🤓 overall geek 👨‍🎤
 📗 I love studying and learning about new subjects.
+
+<br>
 
 **Some Projects:**
 - 😸 [Gitlab Projects](https://gitlab.com/teamspartans)
