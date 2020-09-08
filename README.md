@@ -26,8 +26,9 @@ This is a place that reflects my interests, my professional growth and has been 
 
 **Some Projects:**
 - 😸 [Gitlab Projects](https://gitlab.com/teamspartans)
-- 👨‍💻 Software Engineer projects
-- 📊 Data Science Projects
+- 👨‍💻 Software Engineer projects - [Python](https://github.com/KorKux1?tab=repositories&q=python&type=&language=) | [Java](https://github.com/KorKux1?tab=repositories&q=java&type=&language=)| [C#](https://github.com/KorKux1?tab=repositories&q=csharp&type=&language=).
+- 📊 [Data Science Projects](https://github.com/KorKux1?tab=repositories&q=data-science&type=&language=)
+- 🤖 [Artificial intelligence projects](https://github.com/KorKux1?tab=repositories&q=artificial-intelligence&type=&language=)
 
 <div align="center">
 
@@ -56,21 +57,15 @@ This is a place that reflects my interests, my professional growth and has been 
 
 <h2>Social Media</h2>
 <a href="https://www.linkedin.com/in/korkux">
-  <img alt="Esteban's LinkdeIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="Cristhian's Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/eocode">
-  <img alt="Mehdi's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
+<a href="https://github.com/korkux1">
+  <img alt="Cristhian's Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 </a>
-<a href="https://gitlab.com/eocode">
+<a href="https://gitlab.com/korkux">
   <img alt="Mehdi's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gitlab.svg" />
 </a>
-<a href="mailto:eliasojedamedina@gmail.com">
+<a href="mailto:cristhianeduardo03@hotmail.com">
   <img alt="Mehdi's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/gmail.svg" />
-</a>
-<a href="https://www.facebook.com/eocode">
-  <img alt="Mehdi's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.twitter.com/eocode">
-  <img alt="Mehdi's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 </div>
