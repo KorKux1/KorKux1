@@ -26,8 +26,9 @@ This is a place that reflects my interests, my professional growth and has been 
 
 **Some Projects:**
 - 😸 [Gitlab Projects](https://gitlab.com/teamspartans)
-- 👨‍💻 Software Engineer projects
-- 📊 Data Science Projects
+- 👨‍💻 Software Engineer projects - [Python](https://github.com/KorKux1?tab=repositories&q=python&type=&language=) | [Java](https://github.com/KorKux1?tab=repositories&q=java&type=&language=)| [C#](https://github.com/KorKux1?tab=repositories&q=csharp&type=&language=).
+- 📊 [Data Science Projects](https://github.com/KorKux1?tab=repositories&q=data-science&type=&language=)
+- 🤖 [Artificial intelligence projects](https://github.com/KorKux1?tab=repositories&q=artificial-intelligence&type=&language=)
 
 <div align="center">
 
