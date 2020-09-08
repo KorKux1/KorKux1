@@ -1,5 +1,5 @@
 
-![Banner](./resources/banner.png)
+![Banner](https://raw.githubusercontent.com/KorKux1/KorKux1/master/resources/banner.png)
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=korkux.korkux" 
     alt="visitors"/>
@@ -9,11 +9,9 @@ Welcome to my programming space where I keep all my projects, my course notes an
 
 This is a place that reflects my interests, my professional growth and has been built with a lot of love, so I hope you can enjoy it.
 
----
-
 <h2>About me</h2>
 <p>
-  <img width="200" style="margin-right:10px" alt="hello!" align="left" src="./resources/tenor.gif" >
+  <img width="200" style="margin-right:10px" alt="hello!" align="left" src="https://raw.githubusercontent.com/KorKux1/KorKux1/master/resources/tenor.gif" >
   Hi there 👋 Sorry, I haven't introduced myself. I'm KorKux or well, that's how know me on the internet but my real name is Cristhian Castillo, a data science and software engineering student with a passion for data 👨‍🏫.
 </p>
 <br><br>
@@ -52,8 +50,8 @@ This is a place that reflects my interests, my professional growth and has been 
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-<img height="25" src="/resources/icons/Spring.png">
-<img height="25" src="/resources/icons/aspnet.png">
+<img height="25" src="https://raw.githubusercontent.com/KorKux1/KorKux1/master/resources/icons/Spring.png">
+<img height="25" src="https://raw.githubusercontent.com/KorKux1/KorKux1/master/resources/icons/aspnet.png">
 
 <h2>Social Media</h2>
 <a href="https://www.linkedin.com/in/korkux">
