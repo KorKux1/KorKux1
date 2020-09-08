@@ -16,8 +16,11 @@ This is a place that reflects my interests, my professional growth and has been 
 
 **Some data:**
 🐍 I love programming in Python, it is the language I currently work with.
+
 👨‍🏫 I'm learning about data science and artificial intelligence.
+
 🎮 Anime, audiovisual production & video game enthusiast 🤓 overall geek 👨‍🎤
+
 📗 I love studying and learning about new subjects.
 
 <br>
