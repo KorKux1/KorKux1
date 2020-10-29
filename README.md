@@ -32,7 +32,13 @@ This is a place that reflects my interests, my professional growth and has been 
 - 📊 [Data Science Projects](https://github.com/KorKux1?tab=repositories&q=data-science&type=&language=)
 - 🤖 [Artificial intelligence projects](https://github.com/KorKux1?tab=repositories&q=artificial-intelligence&type=&language=)
 
+**Some Stats**
+
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KorKux1&show_icons=true">
+</div>
+<div align="center">
+
 
 **Technologies with which I have worked**
 
