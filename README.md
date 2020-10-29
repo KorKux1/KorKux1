@@ -34,11 +34,9 @@ This is a place that reflects my interests, my professional growth and has been 
 
 **Some Stats**
 
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KorKux1&show_icons=true">
-</div>
-<div align="center">
 
+<div align="center">
 
 **Technologies with which I have worked**
 
